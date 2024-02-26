@@ -1,5 +1,6 @@
 import { Routes, Route } from "react-router-dom";
 import Owen from "./components/Owen";
+import Githuba from "./components/Githuba"
 function App() {
   return (
     <>
@@ -8,6 +9,7 @@ function App() {
       {/* Route configuration */}
       <Routes>
         <Route path="/Owen" element={<Owen />} />
+        <Route path="/Githuba" element={<Githuba />} />
       </Routes>
     </>
   );

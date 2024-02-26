@@ -1,4 +1,4 @@
-function Githuba (){
+export default function Githuba (){
     return (
         <div className="githuba-container" >
             <h1>
