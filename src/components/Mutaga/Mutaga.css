@@ -1,0 +1,23 @@
+.my-container{
+    display: flex;
+    justify-content: space-between;
+    border: 2px solid #aa182c;
+    margin: 0 auto;
+    border-radius: 2rem;
+    width: 75%;
+}
+.title, .description{
+    padding: 2px;
+}
+.title{
+    display: flex;
+    align-items: center;
+    border-right: 2px solid #aa182c;
+    padding: 1.5rem;
+}
+.title-tag{
+    font-weight: lighter;
+}
+.description{
+    padding: 1.5rem;
+}
