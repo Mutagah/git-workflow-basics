@@ -7,6 +7,7 @@ import Emilly from "./components/Emilly";
 import Wesley from "./components/Wesley";
 import Reuben from "./components/Reuben"
 import Mbithuka from "./components/Mbithuka"
+import Stephanie from "./components/Stephanie";
 function App() {
   let navigate = useNavigate();
   const names = [
@@ -39,6 +40,7 @@ function App() {
         <Route path="/jeremy" element={<Githuba />} />
         <Route path="/reuben" element={<Reuben />} />
         <Route path="/mutaga" element={<Mutaga />} />
+        <Route path="/stephanie" element={<Stephanie/>}/>
       </Routes>
     </main>
   );
