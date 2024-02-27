@@ -1,6 +1,6 @@
 import "./App.css";
 import { Routes, Route, useNavigate } from "react-router-dom";
-import Owen from "./components/Owen";
+import Owen from "./components/Owen/Owen";
 import Githuba from "./components/Githuba";
 import Mutaga from "./components/Mutaga/Mutaga";
 import Emilly from "./components/Emilly";
