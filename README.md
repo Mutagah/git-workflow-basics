@@ -4,14 +4,14 @@ Collaborate on a group project using Git, practicing branching , merging, and re
 
 ## Group Members  
 
-- Emilly Wanjiku
-- Stephanie Achieng
-- Kiharu Mutaga
-- Michael Owen
-- Reuben Muli
-- Richard Githuba
-- Brian Mbithuka
-- Wesley Wanyama
+- [Emilly Wanjiku](https://github.com/njugunaemilly)
+- [Stephanie Achieng](https://github.com/Achieng45)
+- [Kihahu Mutaga](https://github.com/Mutagah)
+- [Michael Owen](https://github.com/Owen150)
+- [Reuben Muli](https://github.com/mulireuben)
+- [Richard Githuba](https://github.com/githubarj)
+- [Brian Mbithuka](https://github.com/mbithuka)
+- [Wesley Wanyama](https://github.com/WesleyWanyama)
 
 ## Setup Instructions
 
