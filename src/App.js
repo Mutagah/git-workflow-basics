@@ -5,6 +5,7 @@ import Githuba from "./components/Githuba";
 import Mutaga from "./components/Mutaga/Mutaga";
 import Emilly from "./components/Emilly";
 import Wesley from "./components/Wesley";
+import Reuben from "./components/Reuben"
 function App() {
   let navigate = useNavigate();
   const names = [
@@ -34,6 +35,7 @@ function App() {
         <Route path="/michael" element={<Owen />} />
         <Route path="/wesley" element={<Wesley />} />
         <Route path="/jeremy" element={<Githuba />} />
+        <Route path="/reuben" element={<Reuben />} />
         <Route path="/mutaga" element={<Mutaga />} />
       </Routes>
     </main>
