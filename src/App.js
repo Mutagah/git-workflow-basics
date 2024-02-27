@@ -3,11 +3,15 @@ import { Routes, Route, useNavigate } from "react-router-dom";
 import Owen from "./components/Owen";
 import Githuba from "./components/Githuba";
 import Mutaga from "./components/Mutaga/Mutaga";
+import Emilly from "./components/Emilly";
+import Wesley from "./components/Wesley";
+import Reuben from "./components/Reuben"
+import Mbithuka from "./components/Mbithuka"
 import Stephanie from "./components/Stephanie";
 function App() {
   let navigate = useNavigate();
   const names = [
-    "Emily",
+    "Emilly",
     "Stephen",
     "Michael",
     "Wesley",
@@ -29,8 +33,12 @@ function App() {
       {mappedButtonNames}
       {/* Route configuration */}
       <Routes>
+        <Route path="/emilly" element={<Emilly />} />
+        <Route path="/stephen" element={<Mbithuka />} />
         <Route path="/michael" element={<Owen />} />
+        <Route path="/wesley" element={<Wesley />} />
         <Route path="/jeremy" element={<Githuba />} />
+        <Route path="/reuben" element={<Reuben />} />
         <Route path="/mutaga" element={<Mutaga />} />
         <Route path="/stephanie" element={<Stephanie/>}/>
       </Routes>
