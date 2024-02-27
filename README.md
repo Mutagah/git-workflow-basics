@@ -13,6 +13,15 @@ Collaborate on a group project using Git, practicing branching , merging, and re
 - Brian Mbithuka
 - Wesley Wanyama
 
+## Github Actions
+
+The follwing actions were done by everyone:  
+
+- Cloning
+- Branching
+- Pushing , Pulling and Merging
+- Creating Pull Requests
+
 ## Setup Instructions
 
 ### Clone the repo
