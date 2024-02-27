@@ -3,6 +3,7 @@ import { Routes, Route, useNavigate } from "react-router-dom";
 import Owen from "./components/Owen";
 import Githuba from "./components/Githuba";
 import Mutaga from "./components/Mutaga/Mutaga";
+import Stephanie from "./components/Stephanie";
 function App() {
   let navigate = useNavigate();
   const names = [
@@ -31,6 +32,7 @@ function App() {
         <Route path="/michael" element={<Owen />} />
         <Route path="/jeremy" element={<Githuba />} />
         <Route path="/mutaga" element={<Mutaga />} />
+        <Route path="/stephanie" element={<Stephanie/>}/>
       </Routes>
     </main>
   );
