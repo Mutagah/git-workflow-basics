@@ -6,6 +6,7 @@ import Mutaga from "./components/Mutaga/Mutaga";
 import Emilly from "./components/Emilly";
 import Wesley from "./components/Wesley";
 import Reuben from "./components/Reuben"
+import Mbithuka from "./components/Mbithuka"
 function App() {
   let navigate = useNavigate();
   const names = [
