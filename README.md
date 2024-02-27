@@ -22,6 +22,8 @@ The follwing actions were done by everyone:
 - Pushing , Pulling and Merging
 - Creating Pull Requests
 
+The development branch was created with the sole purpose of being the playground to merge everybody's work, additionally the main branch was locked to be accessed by one user.
+
 ## Setup Instructions
 
 ### Clone the repo
