@@ -32,6 +32,7 @@ function App() {
       {/* Route configuration */}
       <Routes>
         <Route path="/emilly" element={<Emilly />} />
+        <Route path="/stephen" element={<Mbithuka />} />
         <Route path="/michael" element={<Owen />} />
         <Route path="/wesley" element={<Wesley />} />
         <Route path="/jeremy" element={<Githuba />} />
