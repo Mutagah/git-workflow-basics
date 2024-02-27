@@ -20,18 +20,18 @@ Collaborate on a group project using Git, practicing branching , merging, and re
 - clone this repository by running the following command on your terminal
 
 ```cmd
-git clone 
+git clone https://github.com/Mutagah/git-workflow-basics
 ```
 
 - change your working directory
 
 ```cmd
-cd 
+cd git-workflow-basics
 ```
 
 ### Install Node Modules
 
-- Ensure node is properly configured on your machine if not check the [node documentation](https://github.com/Mutagah/git-workflow-basics)
+- Ensure node is properly configured on your machine if not check the [node documentation](https://nodejs.org/en)
 
 ```cmd
 node --version
